@@ -2,7 +2,7 @@
 This project involves cleaning, transforming, and analyzing a grocery retail dataset using MySQL. The dataset contains transactional sales data including product categories, customer details, regional information, and financial metrics such as sales, profit, and discount. Key transformations include creating a standardized date column, calculating fields like discount amount, cost, and sales before discount, and identifying missing or duplicate records. The project also segments discount ranges, evaluates subcategory and city-level performance, and computes key metrics such as profit margin, average discounts, and revenue trends over time. The objective is to uncover actionable business insights related to customer purchasing behavior, profitability drivers, discount impact, and regional sales performance to support data-driven decision-making.
 
 ## Dataset used
-Dataset =
+Dataset = "https://github.com/SubhankarMukherjee-portfolio/Supermart_Grocery_Sales-Retail_Analytics/blob/main/Supermart%20Grocery%20Sales%20-%20Retail%20Analytics%20Dataset.csv"
 
 ## Project Objective
 1) To clean and preprocess the dataset for analytical readiness.
@@ -15,7 +15,7 @@ Dataset =
 8) To provide actionable insights for business decisions related to pricing, discount strategy, and regional marketing efforts.
 
 ## SQL File (MySQL)
-SQL File =
+SQL File = "https://github.com/SubhankarMukherjee-portfolio/Supermart_Grocery_Sales-Retail_Analytics/blob/main/Supermart%20Grocery%20Sales.sql"
 
 ## Questions solved
 1) How many total orders are there in the dataset?
